@@ -1,11 +1,11 @@
 # Roadmap and issue tracker for [CodeWithAndrea.com](https://www.codewithandrea.com/)
 
-Use this repo to report any issues and feedback about [CodeWithAndrea.com](https://www.codewithandrea.com/), including:
+Use this repo to [report any issues](https://github.com/bizz84/code-with-andrea-issue-tracker/issues) and feedback about [CodeWithAndrea.com](https://www.codewithandrea.com/), including:
 
 - layout & browser compatibility issues
 - content issues (e.g. broken links)
 
-[CodeWithAndrea.com](https://www.codewithandrea.com/) was launched in January 2020 with a minimal yet functional feature set. 
+[CodeWithAndrea.com](https://www.codewithandrea.com/) launched in January 2020 with a minimal yet functional feature set. 
 
 ## Already supported
 
@@ -20,16 +20,9 @@ Use this repo to report any issues and feedback about [CodeWithAndrea.com](https
 - [x] Twitter share links
 - [x] Page-specific meta tags (including Twitter metadata)
 
-## Roadmap (to be implemented)
+## Site Generator Roadmap
 
-### Content (ongoing)
-
-- [ ] Transcripts for all past videos
-- [ ] Optimise all images (scale & compress)
-
-### Site generator
-
-These are listed roughtly in priority order:
+These upcoming features are listed roughtly in priority order:
 
 - [ ] Services page
 - [ ] Group multi-part articles & videos as series
@@ -46,6 +39,13 @@ These are listed roughtly in priority order:
 - [ ] Nicer separators inside pages
 - [ ] More page metadata (updated_date, source_code_link)
 
+**Content updates (ongoing)**
+
+- [ ] Transcripts for all past videos
+- [ ] Optimise all images (scale & compress)
+
+## Thank You
+
 Thank you for all your feedback. It helps make the site better for everyone! 🙏
 
-- Andrea
+Andrea
