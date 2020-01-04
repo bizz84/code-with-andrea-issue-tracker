@@ -42,7 +42,7 @@ These upcoming features are listed roughtly in priority order:
 **Content updates (ongoing)**
 
 - [ ] Transcripts for all past videos
-- [ ] Optimise all images (scale & compress)
+- [ ] Add "alt text" to all images
 
 ## Thank You
 
