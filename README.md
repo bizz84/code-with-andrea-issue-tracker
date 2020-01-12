@@ -19,6 +19,8 @@ Use this repo to [report any issues](https://github.com/bizz84/code-with-andrea-
 - [x] Syntax highlighting for code blocs (currently using Swift grammar)
 - [x] Twitter share links
 - [x] Page-specific meta tags (including Twitter metadata)
+- [x] Nicer separators inside pages
+- [x] RSS feed
 
 ## Site Generator Roadmap
 
@@ -31,12 +33,10 @@ These upcoming features are listed roughtly in priority order:
 - [ ] Comments integration
 - [ ] Search
 - [ ] Sponsorship page
-- [ ] RSS feed
 - [ ] Prev/next page for videos/articles
 - [ ] Related content for videos/articles
 - [ ] Embed newsletter sign-up (currently opens separate landing page)
 - [ ] Pagination
-- [ ] Nicer separators inside pages
 - [ ] More page metadata (updated_date, source_code_link)
 
 **Content updates (ongoing)**
