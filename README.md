@@ -13,7 +13,7 @@ Use this repo to [report any issues](https://github.com/bizz84/code-with-andrea-
 - [x] Videos & articles collections
 - [x] YouTube video embeds
 - [x] Tags
-- [x] Course page
+- [x] Course page + cards
 - [x] Newsletter
 - [x] About page
 - [x] Syntax highlighting for code blocs (currently using Swift grammar)
@@ -21,23 +21,24 @@ Use this repo to [report any issues](https://github.com/bizz84/code-with-andrea-
 - [x] Page-specific meta tags (including Twitter metadata)
 - [x] Nicer separators inside pages
 - [x] RSS feed
+- [x] Embedded newsletter sign-up form
+- [x] Dark mode
 
 ## Site Generator Roadmap
 
 These upcoming features are listed roughtly in priority order:
 
-- [ ] Services page
-- [ ] Group multi-part articles & videos as series
-- [ ] Dart-specific syntax highlighting
-- [ ] Dark mode
+- [ ] Site Search
 - [ ] Comments integration
-- [ ] Search
-- [ ] Sponsorship page
+- [ ] Related content card at the bottom of each page
 - [ ] Prev/next page for videos/articles
-- [ ] Related content for videos/articles
-- [ ] Embed newsletter sign-up (currently opens separate landing page)
-- [ ] Pagination
-- [ ] More page metadata (updated_date, source_code_link)
+- [ ] Group multi-part articles & videos as series
+- [ ] Improve Dart syntax highlighting
+- [ ] Support Pagination
+- [ ] Show more metadata in cards/pages (updated date, transcript available, source code link, difficulty)
+- [ ] Add icons next to each section (Videos, Articles etc)
+- [ ] Sponsorship page
+- [ ] Services page (hire me)
 
 **Content updates (ongoing)**
 
