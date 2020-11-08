@@ -17,25 +17,28 @@ Use this repo to [report any issues](https://github.com/bizz84/code-with-andrea-
 - [x] Newsletter
 - [x] About page
 - [x] Syntax highlighting for code blocs (currently using Swift grammar)
-- [x] Twitter share links
+- [x] Twitter share link at the end of each page
+- [x] Slack link at the end of each page
 - [x] Page-specific meta tags (including Twitter metadata)
 - [x] Nicer separators inside pages
 - [x] RSS feed
 - [x] Embedded newsletter sign-up form
 - [x] Dark mode
+- [x] Site Search
+- [x] Featured content on Home Page
 
 ## Site Generator Roadmap
 
 These upcoming features are listed roughtly in priority order:
 
-- [ ] Site Search
-- [ ] Comments integration
-- [ ] Related content card at the bottom of each page
-- [ ] Prev/next page for videos/articles
-- [ ] Group multi-part articles & videos as series
+- [ ] Port website to Publish
 - [ ] Improve Dart syntax highlighting
-- [ ] Support Pagination
+- [ ] Related content card at the bottom of each page
+- [ ] Group multi-part articles & videos as series
+- [ ] Prev/next page for videos/articles
 - [ ] Show more metadata in cards/pages (updated date, transcript available, source code link, difficulty)
+- [ ] Comments integration
+- [ ] Support Pagination
 - [ ] Add icons next to each section (Videos, Articles etc)
 - [ ] Sponsorship page
 - [ ] Services page (hire me)
